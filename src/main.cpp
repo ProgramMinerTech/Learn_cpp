@@ -9,13 +9,15 @@
 #include "01_exercise.hpp"
 #include "02_exercise.hpp"
 #include "03_exercise.hpp"
+#include "04_exercise.hpp"
 
 int main()
 {
     //exer00();
     //exer01();
     //exer02();
-    exer03();
+    //exer03();
+    exer04();
 
 	return 0;
 
