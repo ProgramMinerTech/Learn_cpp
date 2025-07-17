@@ -10,6 +10,7 @@
 #include "02_exercise.hpp"
 #include "03_exercise.hpp"
 #include "04_exercise.hpp"
+#include "05_exercise.hpp"
 
 int main()
 {
@@ -17,7 +18,8 @@ int main()
     //exer01();
     //exer02();
     //exer03();
-    exer04();
+    //exer04();
+    exer05();
 
 	return 0;
 
